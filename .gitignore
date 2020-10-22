@@ -1,0 +1,4 @@
+# Project exclude paths
+/boot_order_service_consumer/target/
+/boot_user_service_prvider/target/
+/gmall_interface/target/
